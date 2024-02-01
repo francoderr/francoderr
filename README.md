@@ -3,7 +3,8 @@ I am a fulstack web developer
 
 <!-- ![Developer GIF](href="https://tenor.com/view/developer-gif-23414225) -->
 
-cartoon-629_256.gif
+![Developer GIF](cartoon-629_256.gif)
+
 
 
 - 🔭 I’m currently working on Mern projects
