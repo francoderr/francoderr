@@ -1,7 +1,7 @@
 Hi there 👋 My name is Frank Onjoro
 I am a fulstack web developer
 
-https://tenor.com/view/developer-gif-23414225
+![Developer GIF](https://tenor.com/bKpgX.gif)
 
 - 🔭 I’m currently working on Mern projects
 - 🌱 I’m currently learning Kotlin and React Native for mobile app development
